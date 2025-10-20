@@ -31,8 +31,8 @@ Follow these steps to get the project running on your machine 👇
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/kshitij2414/amazon_clone_fun_purpose.git
-cd amazon_clone_fun_purpose
+git clone https://github.com/alchemist240/Amz.git
+cd AMZ
 ```
 
 ---
